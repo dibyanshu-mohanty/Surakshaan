@@ -78,7 +78,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the documentation of Surakshaan, a personal safety application which is you pocket digital friend and allows you to connect with your family, lets you send One click SOS messages, lets you share your live location link, read and watch self defense techniques and find safehouses near you. 
+This is the documentation of Surakshaan, a personal safety application which is you pocket digital friend and allows you to connect with your family, lets you send **, lets you share your live location link, read and watch self defense techniques and find safehouses near you.** 
 
 
 <!-- USAGE EXAMPLES -->
