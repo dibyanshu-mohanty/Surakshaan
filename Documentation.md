@@ -24,11 +24,11 @@
     <a href="https://github.com/dibyanhsu-mohanty/Surakshaan"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/dibyanhsu-mohanty/Surakshaan/issues">Report Bug</a>
+    <a href="dibyanshu2002@gmail.com">Report Bug</a>
     ·
-    <a href="https://github.com/dibyanhsu-mohanty/Surakshaan/issues">Request Feature</a>
+    <a href="dibyanshu2002@gmail.com">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ The usage of the app is very simple.
 Dibyanshu Mohanty - [@DcodeM](https://twitter.com/DcodeM) - dibyanshu.m2002@gmail.com
 
 
-<p align="center">Built in 💖 for  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png" height = "20" align ="center" justify-items="center"></p>
+<p align="center">Built with 💖 for  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png" height = "20" align ="center" justify-items="center"></p>
 
 
 <!--
