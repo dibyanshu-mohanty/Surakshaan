@@ -26,9 +26,9 @@
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="dibyanshu2002@gmail.com">Report Bug</a>
+    <a href="https://github.com/dibyanhsu-mohanty/Surakshaan/issues">Report Bug</a>
     ·
-    <a href="dibyanshu2002@gmail.com">Request Feature</a>
+    <a href="https://github.com/dibyanhsu-mohanty/Surakshaan/issues">Request Feature</a>
   </p>
 </div>
 
