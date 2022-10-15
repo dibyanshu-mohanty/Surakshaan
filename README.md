@@ -84,26 +84,25 @@ This is the documentation of Surakshaan, a personal safety application which is 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+The usage of the app is very simple.
+- Use the **Seek Help** button to send *SOS messages* to saved contacts.
+- Use the *Live Tracker* button to access the prime feature i.e. *Add your family and once they keep their live location ON*, you can *track them in realtime*.
+- The *Explore Safety* section finds *Safehouses* near you and guides you to reach there.
+- Add your Emergency contacts from the Sviors section.
+- From the *Resources* section, get access to curated self defense techniques and safety tips to help yourself at time of danger.
+- Toggle your Live location from the Settings page.
+- The *Shake to detect* feature is under beta phase and will be implemented fully within the next update.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- ✔ Toggle Live Location and Share it live with Family
+- ✔ Send SMS and Calling Feature
+- ✔ Find SafeHouses and display it on Google Maps
+- [ ] Shake to Detect
+- [ ] Reach Home Safely
+- [ ] Auto Send SMS
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -111,13 +110,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Dibyanshu Mohanty - [@DcodeM](https://twitter.com/DcodeM) - dibyanshu.m2002@gmail.com
 
+<!--
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
