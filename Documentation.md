@@ -104,13 +104,14 @@ The usage of the app is very simple.
 - [ ] Auto Send SMS
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 Dibyanshu Mohanty - [@DcodeM](https://twitter.com/DcodeM) - dibyanshu.m2002@gmail.com
+
+
+<p align="center">Built in 💖 for  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png" height = "20" align ="center" justify-items="center"></p>
+
 
 <!--
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
