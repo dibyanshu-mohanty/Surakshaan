@@ -78,6 +78,7 @@ class MyApp extends StatelessWidget {
           } else {
             return Dialog(
               child: Text("Something Went Wrong !"),
+              // Do Something.
             );
           }
         },
