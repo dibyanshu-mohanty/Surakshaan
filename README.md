@@ -62,7 +62,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://res.cloudinary.com/dzt6heuso/image/upload/v1663593951/surakshaan/1_jfecon.png" alt="Logo" width="250" height="400">
+![App Template](https://user-images.githubusercontent.com/72657275/201525013-29449775-246c-4af1-ba07-00b465030fd6.png)
+
+Surakshaan is a sheer combination of technology and good will to keep you safe and help you in growing strong mentally as well as physically. Our users are a part of a family that is with them always and ready to protect them anytime. With Surakshaan as your friend in your pocket, you stay safe physically and mentally in order to make the world a safer place to live in.
+
+Surakshaan aims to provide free Personal safety to each of its users so that we needn’t see anymore victimized cases of various social dangers. Our users can be any individual of any age group.
+
+Our technology is built to serve you in various scenarios :-
+👉 Emergency
+▶ Send SOS alerts to your saved contacts with one click.
+▶ Sensor based SOS alert system which detects motion of phone and automatically sends SOS to contacts (Currently works only on Foreground and can be according to the preference of user).
+▶ Call various emergency helplines directly from Surakshaan to ease the experience of faster SOS support.
+👉 Routing
+▶ Surakshaan integrates a live tracking feature which enables your closed ones to track your live location in real time. (Feature can be turned ON and OFF by the user)
+▶ Safehouses, in order to help you get to your nearest safehouse, where you can feel safe and can be stress free.
+👉 Training
+▶ Users can watch videos and blogs curated from various sources (Credits to respective owners) in order to enable users to learn about self protection techniques.
+
+Although there are a lot of features that have to be integrated in order to make it a complete solution, we are working our best to integrate those features as soon as possible. All the features of the app are completely free and the app experience is free from third party ads & cookies. 
+
 
 ### Built With
 
